@@ -4,3 +4,6 @@ Logs/
 
 .vscode/
 .idea/
+
+*.csproj
+*.sln
